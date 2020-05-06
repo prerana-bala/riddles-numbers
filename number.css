@@ -3,6 +3,8 @@ body{
     font-family: sans-serif;
     background-image:url('images/circuitmob.png');
     background-size: cover;
+    height:99vw;
+    background-colour:black;
 }
 .abclogo{
     width:12%;
